@@ -48,7 +48,7 @@ MongoDB: Banco de dados NoSQL.
 📚 Certificações em Progresso
 
 AWS Certified Cloud Practitioner.
-AWS Certified SysOps Administrator.
+aws certified solutions architect.
 
 
 📫 Contato
