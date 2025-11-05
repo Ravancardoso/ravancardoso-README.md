@@ -14,7 +14,7 @@ Linux: Uso e administração de sistemas baseados em Linux.
 Windows Server: Configuração e gerenciamento.
 ☁️ Cloud Computing
 
-AWS: Amazon Web Services, incluindo EC2, S3, RDS, IAM, VPC, ECS, LAMBDA.
+AWS: Amazon Web Services, incluindo EC2, S3, RDS, IAM, VPC, ECS, EKS, LAMBDA.
 
 
 Docker: Criação e gerenciamento de contêineres.
